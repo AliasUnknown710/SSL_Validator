@@ -1,0 +1,3 @@
+yourdomain.com
+api.yourdomain.com
+secure.example.net
